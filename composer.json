@@ -1,0 +1,19 @@
+{
+    "name": "janssens/tiny-mvc",
+    "description": "a tiny php lib to manage json files as models",
+    "type": "library",
+    "license": "MIT",
+    "version": "0.0.1",
+    "authors": [
+        {
+            "name": "Gaëtan JANSSENS",
+            "email": "contact@plopcom.fr"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "TinyMVC\\": "src/"
+        }
+    },
+    "require": {}
+}
